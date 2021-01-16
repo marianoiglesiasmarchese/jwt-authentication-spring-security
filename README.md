@@ -7,7 +7,7 @@ The token ideally will include an expiration date, user data required to show on
 
 This could be implemented either as a separated microservice or embebed as part of an application.
 
-![how jwt works](https://cdn-images-1.medium.com/max/800/1*SSXUQJ1dWjiUrDoKaaiGLA.png)
+![how jwt works](./how%20jwt%20works.png)
 
 ## Dependencies
 * Kotlin 1.3
